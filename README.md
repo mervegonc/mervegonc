@@ -11,7 +11,8 @@ I'm Merve, a software developer working primarily with Java, Spring Boot, and Sp
 
 ## Technical Skills
 
-- **Java:** I'm proficient in Java and primarily work with the Spring Boot framework.
+- **Java:** I'm proficient in Java and primarily work with the Spring Boot framework.![image](https://github.com/mervegonc/mervegonc/assets/117481952/dd3a4b3c-6bbb-4bc0-8102-beded6cb4d51)
+
 - **Spring Boot:** I use Spring Boot for developing web applications and microservices. I have experience in building RESTful APIs, database interactions, and security.
 - **Spring Security:** I leverage Spring Security for user authentication, authorization, and security aspects.
 - **HTML, CSS, JavaScript:** I also have experience in frontend development and create user-friendly web interfaces using HTML, CSS, and JavaScript.

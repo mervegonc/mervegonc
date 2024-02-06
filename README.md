@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Merve, a software developer working primarily with Java, Spring Boot, and Spring Security. I also have experience with HTML, CSS, and JavaScript. This README file is designed to provide information about me and the projects I'm working on.
+I'm Merve, a software developer working primarily with Java, Spring Boot, and Spring Security. I also have experience with HTML, CSS, and JavaScript.
 
 ## About Me
 

@@ -26,8 +26,8 @@ I'm Merve, a software developer working primarily with Java, Spring Boot, and Sp
 
 ## Contact
 
-- GitHub: https://github.com/mervegonc
 - LinkedIn: https://www.linkedin.com/in/merve-g%C3%B6nc%C3%BC-b8b837255/?originalSubdomain=tr
 - Email: merve.gnc.946@gmail.com
+- Instagram: https://www.instagram.com/mervegoncuart/
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate. I'd be happy to help! 😊

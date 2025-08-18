@@ -33,7 +33,7 @@ A **secure authentication & authorization system** built with Spring Boot & Spri
 A project exploring **complex distributed systems**.  
 - Think of it as the **“brain of an OS”** 🖥️.  
 - Each module contributes to the **system’s overall functionality**.  
-- Written with clarity: every line of code tells a story.  
+- Written with clarity.  
 
 ---
 

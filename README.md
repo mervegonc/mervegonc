@@ -1,11 +1,11 @@
-# Hello, I'm Merve 👋  
+# About Me
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Java+Developer+in+progress;Spring+Boot+Enthusiast;Python+Learner;Security+Learner;Always+learning+new+things)](https://git.io/typing-svg)
 
-💻 Software developer from **Ankara, Turkey**.  
+
 🌱 I mainly focus on **Java + Spring Boot + Spring Security**.  
 🐍 Currently learning **Python** for automation, web scraping, and data projects.  
-✨ Sometimes I also play with **HTML, CSS, JavaScript** for fun.  
+
 
 ---
 

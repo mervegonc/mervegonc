@@ -46,8 +46,7 @@ A project exploring **complex distributed systems**.
 ---
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/merve-g%C3%B6nc%C3%BC-b8b837255)  
-- 📧 **merve.gnc.946@gmail.com**  
+- [LinkedIn](https://www.linkedin.com/in/merve-g%C3%B6nc%C3%BC-b8b837255)    
 - [Instagram](https://www.instagram.com/mervegoncuart/)  
 
 ---

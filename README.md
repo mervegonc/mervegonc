@@ -43,11 +43,6 @@ A project exploring **complex distributed systems**.
 ![Merve's GitHub stats](https://github-readme-stats.vercel.app/api?username=mervegonc&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mervegonc&layout=compact&theme=tokyonight)
 
----
-
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/merve-g%C3%B6nc%C3%BC-b8b837255)    
-- [Instagram](https://www.instagram.com/mervegoncuart/)  
 
 ---
 

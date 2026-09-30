@@ -1,49 +1,101 @@
-# About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Developer;Java+&+Spring+Boot+Enthusiast;Python+&+Automation+Learner;Always+learning+new+things&font=Fira%20Code&weight=600&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&width=600&height=50" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Java+Developer+in+progress;Spring+Boot+Enthusiast;Python+Learner;Security+Learner;Always+learning+new+things)](https://git.io/typing-svg)
+<h3 align="center">🌱 Hi there! I'm Merve — A passionate developer crafting robust backend systems and modern web applications.</h3>
 
-
-🌱 I mainly focus on **Java + Spring Boot + Spring Security**.  
-🐍 Currently learning **Python** for automation, web scraping, and data projects.  
-
-
----
-
-## 🚀 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![Spring Security](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=Spring-Security&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mervegonc&style=flat-square&color=3ecf8e" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mervegonc?label=Followers&style=flat-square&color=3ecf8e" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Status-Coding%20with%20Passion-success?style=flat-square" alt="Status" />
+</p>
 
 ---
 
-## 📌 Projects  
+## 🚀 Tech Stack & Skills
 
-### 🔐 [Security App](https://github.com/mervegonc/security)  
-A **secure authentication & authorization system** built with Spring Boot & Spring Security.  
-- Users can **sign up & log in** securely.  
-- Ideal for **e-commerce** or any app needing account management.  
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧠 [Octopos Prime](https://github.com/octoposprime)  
-A project exploring **complex distributed systems**.  
-- Think of it as the **“brain of an OS”** 🖥️.  
-- Each module contributes to the **system’s overall functionality**.  
-- Written with clarity.  
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[🔐 Security App](https://github.com/mervegonc/security)** | Secure authentication & authorization system. | `Java` `Spring Boot` `Spring Security` |
+| **[📊 CRM System](https://github.com/mervegonc/crm)** | Customer relationship management application. | `Java` `Spring` `Database` |
 
 ---
 
-## 📊 GitHub Stats
-![Merve's GitHub stats](https://github-readme-stats.vercel.app/api?username=mervegonc&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mervegonc&layout=compact&theme=tokyonight)
+## 📊 GitHub Analytics & Stats
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mervegonc&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mervegonc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervegonc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
 
 ---
 
-✨ *“Writing code is like painting – each line adds color to the big picture.”* 🎨
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <a href="https://linkedin.com/in/mervegonc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>✨ “Writing code is like painting – each line adds color to the big picture.” 🎨</i>
+</div>
